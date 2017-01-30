@@ -31,7 +31,7 @@ composer require tomaskraus/path-utils
     },
 ```
 
-Usage example:
+## Usage example:
 
 Assume we have our php application in `/var/www/myApp`. A `/var/www/myApp` is our application root path.
 
